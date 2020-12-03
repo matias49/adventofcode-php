@@ -1,0 +1,19 @@
+{
+    "name": "matias49/adventofcode2020",
+    "description": "PHP Solver for the Advent Of Code 2020",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Matias49",
+            "email": "matias49@live.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Day1\\": "src/01",
+            "Day2\\": "src/02",
+            "Day3\\": "src/03"
+        }
+    }
+}
