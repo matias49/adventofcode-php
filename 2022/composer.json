@@ -1,0 +1,17 @@
+{
+    "name": "matias49/adventofcode2022",
+    "description": "PHP Solver for the Advent Of Code 2022",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Matias49",
+            "email": "matias49@live.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Year2022\\": "src/"
+        }
+    }
+}
