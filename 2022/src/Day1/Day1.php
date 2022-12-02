@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Year2022;
+namespace Year2022\Day1;
 
 class Day1 {
 
