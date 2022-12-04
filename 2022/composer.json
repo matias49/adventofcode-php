@@ -8,7 +8,9 @@
             "email": "matias49@live.fr"
         }
     ],
-    "require": {},
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
     "autoload": {
         "psr-4": {
             "Year2022\\": "src/"
